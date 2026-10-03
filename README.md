@@ -13,7 +13,7 @@
 ## 1. Executive Summary & Core Mission
 
 ### The One-Billion-Kronor Data Contamination Crisis
-Every year, European financial institutions, Nordic neobanks, cross-border FinTechs, and government agencies lose over **1,000,000,000 SEK (one billion Swedish kronor)** to identity contamination, onboarding fraud, and compliance penalties:
+Every year, European financial institutions, Nordic neobanks, cross-border FinTechs, and government agencies struggle with severe operational overhead, high user drop-off rates, and onboarding friction due to identity contamination and multi-script data silos. Fiona solves this core challenge by automating secure, cross-border identity resolution under eIDAS 2.0 standards.
 
 1. **Non-Latin Script Transliteration Gaps**: Inbound immigrants and remote workers holding Ukrainian Cyrillic (`Олександр Шевченко`), Arabic, or East Asian identification face inconsistent Latin transliterations across national tax, migration, and border registries.
 2. **Name Token Permutations & Patronymic Inversions**: East Asian surname-first structures (e.g., `KIM Min Su`) are routinely corrupted when mapped against Western given-name/family-name databases (e.g., `Jeong, Minsu Kim`), causing false rejections or duplicate customer dossiers.
