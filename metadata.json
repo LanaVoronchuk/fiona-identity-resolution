@@ -1,0 +1,8 @@
+{
+  "name": "Fiona - Cross-Border Identity Resolution Portal",
+  "description": "EU eIDAS 2.0 compliant automated identity resolution and cross-border reconciliation portal with OCR parsing and audit verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
